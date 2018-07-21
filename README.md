@@ -14,9 +14,9 @@ The study used survey research methods, ethnographic analysis, social network an
 This study is dedicated to residents of Kaktovik, Wainwright, and Venetie who are actively engaged in subsistence—to elders whose wisdom and guidance helped with our research, to harvesters, processors, and consumers who live a subsistence way of life, and to youth for their commitment to sustaining Alaska Native cultural traditions into the future
 
 # Principal Investigators
-Gary Kofinas (mailto:gpkofinas@alaska.edu)
+Gary Kofinas (gpkofinas@alaska.edu)
 • Shauna BurnSilver (sburnsil@asu.edu)
-• James Magdanz (mailto:jmagdanz@alaska.edu)
+• James Magdanz (jmagdanz@alaska.edu)
 
 If you use data from this repository, please contact the principal investigators for additional information and caveats.
 
