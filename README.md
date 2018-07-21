@@ -20,7 +20,7 @@ Gary Kofinas (gpkofinas@alaska.edu)
 • Shauna BurnSilver (sburnsil@asu.edu)
 • James Magdanz (jmagdanz@alaska.edu)
 
-*If you use data from this repository, please contact the principal investigators for additional information and caveats.*
+*If you use data from this repository, please contact the principal investigators for additional information and caveats before you begin your analyses.*
 
 **Original Project Report**
 
