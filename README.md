@@ -13,16 +13,21 @@ The study used survey research methods, ethnographic analysis, social network an
 # Acknowledgments
 This study is dedicated to residents of Kaktovik, Wainwright, and Venetie who are actively engaged in subsistence—to elders whose wisdom and guidance helped with our research, to harvesters, processors, and consumers who live a subsistence way of life, and to youth for their commitment to sustaining Alaska Native cultural traditions into the future
 
+# Principal Investigators Contacts
+If you use data from this repository, please contact the principal investigators for additional information and caveats. Gary Kofinas mailto:gpkofinas@alaska.edu, Shauna BurnSilver mailto:sburnsil@asu.edu, James Magdanz mailto:jmagdanz@alaska.edu
+
 # Citations
-If you use data from this repository, please cite the original project report and the article-specific data set.
+Please cite the original project report (Kofinas et al 2016) and, when appropriate, the article for specific data sets.
 
 Kofinas, Gary, Shauna B.  BurnSilver, James S. Magdanz, Rhian Stotts, and Marcy M. Okada. 2016. Subsistence Sharing Networks and Cooperation: Kaktovik, Wainwright, and Venetie, Alaska.: Bureau of Oceans Energy Management. https://www.boem.gov/BOEM-2015-23/
+
+BurnSilver, Shauna, James Magdanz, Rhian Stotts, Matthew Berman, and Gary Kofinas. 2016. Are Mixed Economies Persistent or Transitional? Evidence Using Social Networks from Arctic Alaska. American Anthropologist 118(1):121–129. http://dx.doi.org/10.1111/aman.12447
 
 Baggio, Jacopo A., Shauna B. BurnSilver, Alex Arenas, James S. Magdanz, Gary P. Kofinas, and Manlio De Domenico. 2016.	Multiplex Social Ecological Network Analysis Reveals How Social Changes Affect Community Robustness More Than Resource Depletion. Proceedings of the National Academy of Sciences 113(48):13708-13713. http://www.pnas.org/content/113/48/13708.abstract
 
 
 # Cooperating Organizations:
-• Bureau of Oceans Energy Management
+Bureau of Oceans Energy Management
 • School of Natural Resources and Extension, University of Alaska Fairbanks
 • Institute of Arctic Biology, University of Alaska Fairbanks
 • School of Human Evolution and Social Change, Arizona State University
