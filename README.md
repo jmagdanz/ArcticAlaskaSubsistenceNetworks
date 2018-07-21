@@ -1,4 +1,4 @@
-# ArcticAlaskaSubsistenceNetworks
+# The Sharing Project
 
 This study documented and analyzed social networks of sharing and cooperation that are part of Alaska Native subsistence-cash economies, and explored the potential vulnerability and resilience of Alaska rural communities to conditions of social and ecological change. The study was undertaken in response to the Bureau of Ocean Energy Management (BOEM), formerly Mineral Management Services (MMS) Statement of Work NSL-AK-05-04. Research activities were initiated in spring of 2008 with the survey instrument administered from October 2010 to May 2011.
 
