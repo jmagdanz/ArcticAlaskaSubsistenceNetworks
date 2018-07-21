@@ -10,7 +10,7 @@ Primary goals of the study were to provide agencies and communities with quantit
 
 The study used survey research methods, ethnographic analysis, social network analysis, and group interviews to collect data. Research methods were developed and refined through close consultation with Local Project Advisory Committees in each community. Using survey research, we sought to interview the head or heads of every household in each community. Interview response rates were high: 82% in Kaktovik, 96% in Wainwright, and 94% in Venetie. Data were analyzed to describe household socio-economic conditions and provided general and specific characteristics of sharing and cooperation patterns among local and non-local households. The study’s analysis of persistence, vulnerability, and resilience assessed past-to-present patterns of the subsistence-cash economy and the implications of plausible future social-ecological changes.
 
-Cooperating Organizations included:
+Cooperating Organizations:
 • Bureau of Oceans Energy Management
 • School of Natural Resources and Extension, University of Alaska Fairbanks
 • Institute of Arctic Biology, University of Alaska Fairbanks
