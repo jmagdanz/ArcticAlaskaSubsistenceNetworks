@@ -10,23 +10,28 @@ Primary goals of the study were to provide agencies and communities with quantit
 
 The study used survey research methods, ethnographic analysis, social network analysis, and group interviews to collect data. Research methods were developed and refined through close consultation with Local Project Advisory Committees in each community. Using survey research, we sought to interview the head or heads of every household in each community. Interview response rates were high: 82% in Kaktovik, 96% in Wainwright, and 94% in Venetie. Data were analyzed to describe household socio-economic conditions and provided general and specific characteristics of sharing and cooperation patterns among local and non-local households. The study’s analysis of persistence, vulnerability, and resilience assessed past-to-present patterns of the subsistence-cash economy and the implications of plausible future social-ecological changes.
 
-## Acknowledgments
+# Acknowledgments
 This study is dedicated to residents of Kaktovik, Wainwright, and Venetie who are actively engaged in subsistence—to elders whose wisdom and guidance helped with our research, to harvesters, processors, and consumers who live a subsistence way of life, and to youth for their commitment to sustaining Alaska Native cultural traditions into the future
 
-## Principal Investigators
-If you use data from this repository, please contact the principal investigators for additional information and caveats. Gary Kofinas mailto:gpkofinas@alaska.edu, Shauna BurnSilver mailto:sburnsil@asu.edu, James Magdanz mailto:jmagdanz@alaska.edu
+# Principal Investigators
+If you use data from this repository, please contact the principal investigators for additional information and caveats.
+Gary Kofinas mailto:gpkofinas@alaska.edu
+• Shauna BurnSilver mailto:sburnsil@asu.edu
+• James Magdanz mailto:jmagdanz@alaska.edu
 
-## Citations
-Please cite the original project report (Kofinas et al 2016) and, when appropriate, the article for specific data sets.
+# Project Report
+Please cite the original project report (Kofinas et al 2016) and, when appropriate, the article associated with specific data sets.
 
 Kofinas, Gary, Shauna B.  BurnSilver, James S. Magdanz, Rhian Stotts, and Marcy M. Okada. 2016. Subsistence Sharing Networks and Cooperation: Kaktovik, Wainwright, and Venetie, Alaska.: Bureau of Oceans Energy Management. https://www.boem.gov/BOEM-2015-23/
+
+# Additional Citations
 
 BurnSilver, Shauna, James Magdanz, Rhian Stotts, Matthew Berman, and Gary Kofinas. 2016. Are Mixed Economies Persistent or Transitional? Evidence Using Social Networks from Arctic Alaska. American Anthropologist 118(1):121–129. http://dx.doi.org/10.1111/aman.12447
 
 Baggio, Jacopo A., Shauna B. BurnSilver, Alex Arenas, James S. Magdanz, Gary P. Kofinas, and Manlio De Domenico. 2016.	Multiplex Social Ecological Network Analysis Reveals How Social Changes Affect Community Robustness More Than Resource Depletion. Proceedings of the National Academy of Sciences 113(48):13708-13713. http://www.pnas.org/content/113/48/13708.abstract
 
 
-## Cooperating Organizations:
+# Cooperating Organizations:
 Bureau of Oceans Energy Management
 • School of Natural Resources and Extension, University of Alaska Fairbanks
 • Institute of Arctic Biology, University of Alaska Fairbanks
