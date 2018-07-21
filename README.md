@@ -20,10 +20,10 @@ Gary Kofinas (gpkofinas@alaska.edu)
 
 If you use data from this repository, please contact the principal investigators for additional information and caveats.
 
-# Project Report
-Please cite the original project report (Kofinas et al 2016) and, when appropriate, the article associated with specific data sets.
-
+# Original Project Report
 Kofinas, Gary, Shauna B.  BurnSilver, James S. Magdanz, Rhian Stotts, and Marcy M. Okada. 2016. Subsistence Sharing Networks and Cooperation: Kaktovik, Wainwright, and Venetie, Alaska.: Bureau of Oceans Energy Management. https://www.boem.gov/BOEM-2015-23/
+
+Please cite the original project report and, when appropriate, articles (below) associated with specific data sets.
 
 # Additional Citations
 
