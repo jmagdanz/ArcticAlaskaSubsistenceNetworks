@@ -26,7 +26,7 @@ Gary Kofinas (gpkofinas@alaska.edu)
 
 Kofinas, Gary, Shauna B.  BurnSilver, James S. Magdanz, Rhian Stotts, and Marcy M. Okada. 2016. Subsistence Sharing Networks and Cooperation: Kaktovik, Wainwright, and Venetie, Alaska.: Bureau of Oceans Energy Management. https://www.boem.gov/BOEM-2015-23/
 
-*Please cite the original project report and, when appropriate, articles (below) associated with specific data sets.*
+*If you use data from this repository, please cite the original project report and, when appropriate, articles (below) associated with specific data sets.*
 
 **Additional Citations**
 
