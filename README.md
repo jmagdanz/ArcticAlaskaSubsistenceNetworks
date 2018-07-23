@@ -1,6 +1,6 @@
 # The Sharing Project
 
-Gary Kofinas (gpkofinas@alaska.edu) • Shauna S. BurnSilver (sburnsil@asu.edu) • James Magdanz (jmagdanz@alaska.edu)
+Gary Kofinas (gpkofinas@alaska.edu) • Shauna B. BurnSilver (sburnsil@asu.edu) • James Magdanz (jmagdanz@alaska.edu)
 
 This repository contains selected data from *The Sharing Project.*
 
@@ -17,7 +17,7 @@ Bureau of Oceans Energy Management
 
 # Required Data Citation
 
-**Kofinas, Gary, Shauna S. BurnSilver, and James Magdanz. 2016. *The Sharing Project.* University of Alaska Fairbanks, Arizona State University, and Division of Subsistence, Alaska Department of Fish and Game.**
+**Kofinas, Gary, Shauna B. BurnSilver, and James Magdanz. 2016. *The Sharing Project.* University of Alaska Fairbanks, Arizona State University, and Division of Subsistence, Alaska Department of Fish and Game.**
 
 # About The Sharing Project
 *The Sharing Project* documented and analyzed social networks of sharing and cooperation that are part of Alaska Native subsistence-cash economies, and explored the potential vulnerability and resilience of Alaska rural communities to conditions of social and ecological change. The study was undertaken in response to the Bureau of Ocean Energy Management (BOEM), formerly Mineral Management Services (MMS) Statement of Work NSL-AK-05-04. Research activities were initiated in spring of 2008 with the survey instrument administered from October 2010 to May 2011.
