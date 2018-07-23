@@ -1,8 +1,8 @@
 # The Sharing Project
 
-**By Gary Kofinas, Shauna B. BurnSilver, James Magdanz, Rhian Stotts, & Marcy Okada**
+**By Gary Kofinas, Shauna B. BurnSilver, & James Magdanz**
 
-This repository contains selected data from *The Sharing Project.* Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in according with the Principles for the Conduct of Research in the Arctic (https://www.nsf.gov/geo/opp/arctic/conduct.jsp). Researchers who wish to use these data in their own research must comply with these principles, must provide the principal investigators an opporunity to review any analyses of these data prior to publication, and must credit the sharing project as the source of the data.
+This repository contains selected data from *The Sharing Project.* Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in according with the Principles for the Conduct of Research in the Arctic (https://www.nsf.gov/geo/opp/arctic/conduct.jsp). Researchers who wish to use these data in their own research must comply with these principles, must provide the principal investigators an opporunity to review any analyses of these data prior to publication, and must credit "The Sharing Project as the source of the data.
 
 **Principal Investigators**
 
