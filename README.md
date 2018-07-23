@@ -2,7 +2,16 @@
 
 **By Gary Kofinas, Shauna B. BurnSilver, James Magdanz, Rhian Stotts, & Marcy Okada**
 
-This study documented and analyzed social networks of sharing and cooperation that are part of Alaska Native subsistence-cash economies, and explored the potential vulnerability and resilience of Alaska rural communities to conditions of social and ecological change. The study was undertaken in response to the Bureau of Ocean Energy Management (BOEM), formerly Mineral Management Services (MMS) Statement of Work NSL-AK-05-04. Research activities were initiated in spring of 2008 with the survey instrument administered from October 2010 to May 2011.
+This repository contains selected data from *The Sharing Project.* Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in according with the Ethical Principles for the Conduct of Research in the North (acuns.ca/wp-content/uploads/2010/09/EthicsEnglishmarch2003.pdf). Researchers who wish to use this data in their own research are expected to comply with these ethnical principals and to inform the principal investigators of any intended publication of analyses of these data.
+
+**Principal Investigators**
+
+Gary Kofinas (gpkofinas@alaska.edu)
+• Shauna BurnSilver (sburnsil@asu.edu)
+• James Magdanz (jmagdanz@alaska.edu)
+
+**About The Sharing Projects**
+*The Sharing Project* documented and analyzed social networks of sharing and cooperation that are part of Alaska Native subsistence-cash economies, and explored the potential vulnerability and resilience of Alaska rural communities to conditions of social and ecological change. The study was undertaken in response to the Bureau of Ocean Energy Management (BOEM), formerly Mineral Management Services (MMS) Statement of Work NSL-AK-05-04. Research activities were initiated in spring of 2008 with the survey instrument administered from October 2010 to May 2011.
 
 The study engaged two North Slope Alaska coastal communities, Kaktovik and Wainwright (Iñupiat), and one rural interior Alaska community, Venetie (Gwich’in), in partnerships to complete the research. Wainwright and Kaktovik were invited to participate because of BOEM’s mandate to study the potential impacts of offshore energy development. Venetie was included as a contrasting interior Alaska community that is not exposed to offshore development, and thus served as a “control.”
 
@@ -13,14 +22,6 @@ The study used survey research methods, ethnographic analysis, social network an
 **Acknowledgments**
 
 This study is dedicated to residents of Kaktovik, Wainwright, and Venetie who are actively engaged in subsistence—to elders whose wisdom and guidance helped with our research, to harvesters, processors, and consumers who live a subsistence way of life, and to youth for their commitment to sustaining Alaska Native cultural traditions into the future
-
-**Principal Investigators**
-
-Gary Kofinas (gpkofinas@alaska.edu)
-• Shauna BurnSilver (sburnsil@asu.edu)
-• James Magdanz (jmagdanz@alaska.edu)
-
-*If you use data from this repository, please contact the principal investigators for additional information and caveats before you begin your analyses.*
 
 **Original Project Report**
 
