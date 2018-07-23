@@ -2,7 +2,7 @@
 
 **By Gary Kofinas, Shauna B. BurnSilver, James Magdanz, Rhian Stotts, & Marcy Okada**
 
-This repository contains selected data from *The Sharing Project.* Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in according with the Ethical Principles for the Conduct of Research in the North (acuns.ca/wp-content/uploads/2010/09/EthicsEnglishmarch2003.pdf). Researchers who wish to use this data in their own research are expected to comply with these ethnical principals and to inform the principal investigators of any intended publication of analyses of these data.
+This repository contains selected data from *The Sharing Project.* Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in according with the Ethical Principles for the Conduct of Research in the North (https//acuns.ca/wp-content/uploads/2010/09/EthicsEnglishmarch2003.pdf). Researchers who wish to use this data in their own research are expected to comply with these ethnical principals and to inform the principal investigators of any intended publication of analyses of these data.
 
 **Principal Investigators**
 
