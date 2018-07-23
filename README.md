@@ -41,3 +41,5 @@ Kofinas, Gary, Shauna B.  BurnSilver, James S. Magdanz, Rhian Stotts, and Marcy 
 BurnSilver, Shauna, James Magdanz, Rhian Stotts, Matthew Berman, and Gary Kofinas. 2016. Are Mixed Economies Persistent or Transitional? Evidence Using Social Networks from Arctic Alaska. *American Anthropologist* 118(1):121–129. http://dx.doi.org/10.1111/aman.12447
 
 Baggio, Jacopo A., Shauna B. BurnSilver, Alex Arenas, James S. Magdanz, Gary P. Kofinas, and Manlio De Domenico. 2016.	Multiplex Social Ecological Network Analysis Reveals How Social Changes Affect Community Robustness More Than Resource Depletion. *Proceedings of the National Academy of Sciences* 113(48):13708-13713. http://www.pnas.org/content/113/48/13708.abstract
+
+BurnSilver, Shauna and James Magdanz. [in press] Heterogeneity in Mixed Economies: Implications for Sensitivity and Adaptive Capacity. *Hunter-Gatherer Research.*
