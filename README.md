@@ -4,7 +4,7 @@ Gary Kofinas (gpkofinas@alaska.edu) • Shauna B. BurnSilver (sburnsil@asu.edu) 
 
 This repository contains selected data from *The Sharing Project.*
 
-Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in according with the Principles for the Conduct of Research in the Arctic (https://www.nsf.gov/geo/opp/arctic/conduct.jsp). Researchers who wish to use these data in their own research must comply with these principles, must provide the principal investigators with an opportunity to review any analyses of these data prior to publication, and must credit *The Sharing Project* as below.
+Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in accordance with the Principles for the Conduct of Research in the Arctic (https://www.nsf.gov/geo/opp/arctic/conduct.jsp). Researchers who wish to use these data in their own research must comply with these principles, must provide the principal investigators with an opportunity to review any analyses of these data prior to publication, and must credit *The Sharing Project* as below.
 
 **Cooperating Organizations**
 
