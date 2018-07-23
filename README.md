@@ -23,11 +23,11 @@ The study used survey research methods, ethnographic analysis, social network an
 
 This study is dedicated to residents of Kaktovik, Wainwright, and Venetie who are actively engaged in subsistence—to elders whose wisdom and guidance helped with our research, to harvesters, processors, and consumers who live a subsistence way of life, and to youth for their commitment to sustaining Alaska Native cultural traditions into the future
 
-**Original Project Report**
+)**Original Project Report**
 
 Kofinas, Gary, Shauna B.  BurnSilver, James S. Magdanz, Rhian Stotts, and Marcy M. Okada. 2016. Subsistence Sharing Networks and Cooperation: Kaktovik, Wainwright, and Venetie, Alaska.: Bureau of Oceans Energy Management. https://www.boem.gov/BOEM-2015-23/
 
-*If you use data from this repository, please cite the original project report and, when appropriate, articles (below) associated with specific data sets.*
+*If you use data from this repository, you must cite *The Sharing Project" and the article(s associated with specific data you use.*
 
 **Additional Citations**
 
