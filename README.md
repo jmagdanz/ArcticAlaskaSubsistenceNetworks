@@ -1,6 +1,6 @@
 # The Sharing Project
 
-This repository contains selected data from *The Sharing Project*. 
+This repository contains selected data from *The Sharing Project*. Researchers wishing to use the data in their own research are encouraged to review the original project report (https://www.boem.gov/BOEM-2015-23/).
 
 **Principal Investiators**
 
@@ -15,12 +15,14 @@ Bureau of Oceans Energy Management
 • Division of Subsistence, Alaska Department of Fish and Game
 • U.S. National Park Service
 
+Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in accordance with the Principles for the Conduct of Research in the Arctic (https://www.nsf.gov/geo/opp/arctic/conduct.jsp). Researchers who wish to use these data in their own research must comply with these principles, must provide the principal investigators with an opportunity to review any analyses of these data prior to publication, and must credit *The Sharing Project* as below.
+
 # Required Data Citation
 
 **Kofinas, Gary, Shauna B. BurnSilver, and James Magdanz. 2016. *The Sharing Project.* University of Alaska Fairbanks, Arizona State University, and Division of Subsistence, Alaska Department of Fish and Game.**
 
 # About The Sharing Project
-Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in accordance with the Principles for the Conduct of Research in the Arctic (https://www.nsf.gov/geo/opp/arctic/conduct.jsp). Researchers who wish to use these data in their own research must comply with these principles, must provide the principal investigators with an opportunity to review any analyses of these data prior to publication, and must credit *The Sharing Project* as above.
+
 
 *The Sharing Project* documented and analyzed social networks of sharing and cooperation that are part of Alaska Native subsistence-cash economies, and explored the potential vulnerability and resilience of Alaska rural communities to conditions of social and ecological change. The study was undertaken in response to the Bureau of Ocean Energy Management (BOEM), formerly Mineral Management Services (MMS) Statement of Work NSL-AK-05-04. Research activities were initiated in spring of 2008 with the survey instrument administered from October 2010 to May 2011.
 
