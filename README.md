@@ -1,10 +1,10 @@
 # The Sharing Project
 
+This repository contains selected data from *The Sharing Project*. 
+
+**Principal Investiators**
+
 Gary Kofinas (gpkofinas@alaska.edu) • Shauna B. BurnSilver (sburnsil@asu.edu) • James Magdanz (jmagdanz@alaska.edu)
-
-This repository contains selected data from *The Sharing Project.*
-
-Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in accordance with the Principles for the Conduct of Research in the Arctic (https://www.nsf.gov/geo/opp/arctic/conduct.jsp). Researchers who wish to use these data in their own research must comply with these principles, must provide the principal investigators with an opportunity to review any analyses of these data prior to publication, and must credit *The Sharing Project* as below.
 
 **Cooperating Organizations**
 
@@ -20,6 +20,8 @@ Bureau of Oceans Energy Management
 **Kofinas, Gary, Shauna B. BurnSilver, and James Magdanz. 2016. *The Sharing Project.* University of Alaska Fairbanks, Arizona State University, and Division of Subsistence, Alaska Department of Fish and Game.**
 
 # About The Sharing Project
+Data were collected in cooperation with the Alaska Native Villages of Kaktovik, Venetie, and Wainwright in accordance with the Principles for the Conduct of Research in the Arctic (https://www.nsf.gov/geo/opp/arctic/conduct.jsp). Researchers who wish to use these data in their own research must comply with these principles, must provide the principal investigators with an opportunity to review any analyses of these data prior to publication, and must credit *The Sharing Project* as above.
+
 *The Sharing Project* documented and analyzed social networks of sharing and cooperation that are part of Alaska Native subsistence-cash economies, and explored the potential vulnerability and resilience of Alaska rural communities to conditions of social and ecological change. The study was undertaken in response to the Bureau of Ocean Energy Management (BOEM), formerly Mineral Management Services (MMS) Statement of Work NSL-AK-05-04. Research activities were initiated in spring of 2008 with the survey instrument administered from October 2010 to May 2011.
 
 The study engaged two North Slope Alaska coastal communities, Kaktovik and Wainwright (Iñupiat), and one rural interior Alaska community, Venetie (Gwich’in), in partnerships to complete the research. Wainwright and Kaktovik were invited to participate because of BOEM’s mandate to study the potential impacts of offshore energy development. Venetie was included as a contrasting interior Alaska community that is not exposed to offshore development, and thus served as a “control.”
